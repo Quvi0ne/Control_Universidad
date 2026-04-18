@@ -6,7 +6,7 @@ name: .NET
 on:
   pull_request:
     branches: [ "Develop" ]
-      workflow_dispatch:
+  workflow_dispatch:
 
 
 jobs:
